@@ -1,4 +1,6 @@
-# Full Capacity Buffered Concentrator (desgined by Emre Gunduzhan) Implementation in Python.
+# Full Capacity Buffered Concentrator
+
+Full Capacity Buffered Concentrator (designed by Emre Gunduzhan) Implementation in Python.
 
 The steps of Gunduzhan's design for full capacity buffered concentrators are implemented in Python. With this implementation, you can create your concentrators by giving the parameters below, enter input packets, and find the output buffer positions of the input packets by following the directions on the program screen.
         
