@@ -1,4 +1,4 @@
-# Full Capacity Buffered Concentrator
+# Full Capacity Buffered Concentrator Implementation
 
 Full Capacity Buffered Concentrator (designed by Emre Gunduzhan) Implementation in Python.
 
