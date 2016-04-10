@@ -17,7 +17,7 @@ After calculation of the input-output connection matrix, the program asks you to
 
 This implementation is a good example of full capacity buffered concentrators in terms of its a few smart features. 
 
-        -- It always considers input packets in Part I_1 and Part I_2 of Emre Gunduzhan's design to concentrate at first.
+        -- The program always considers input packets in Part I_1 and Part I_2 of Emre Gunduzhan's design to concentrate at first.
         -- After concentrate those packets, if there is still empty buffers at outputs, the program automatically fills them by using the packets in Part I_3 of Emre Gunduzhan's design. 
         
 Omer Faruk Aktulum
